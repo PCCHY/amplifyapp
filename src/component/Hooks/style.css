@@ -1,0 +1,11 @@
+p{
+    color: rgb(32, 185, 160);
+    font-size: 80px;
+    /* text-align: center; */
+    margin-bottom: 10px;
+    font-family: sans-serif;
+}
+
+button{
+    margin-right: 10px;
+}
